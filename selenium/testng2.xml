@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Addingparameter">
+   <parameter name="Val1" Value=10></parameter>
+   <parameter name="Val2" Value=2></parameter>
+   <classes>
+   <class name="DAY5.Addingparameter"></class>
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
